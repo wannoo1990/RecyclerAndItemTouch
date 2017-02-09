@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="1px"
+    android:layout_marginRight="1px"
+    android:background="#fff">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="1px"
+        android:gravity="center"
+        android:padding="13dp"
+        android:text="列表"/>
+
+    <ImageView
+        android:id="@+id/btn"
+        android:layout_width="13dp"
+        android:layout_height="13dp"
+        android:layout_gravity="right|top"
+        android:src="@mipmap/ic_launcher"/>
+</FrameLayout>

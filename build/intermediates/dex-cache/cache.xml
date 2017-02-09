@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_04bd067396c21722805df2bb294537de4c09eaf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fe7790a34fe644a8a185e007d5e0329ca48bde14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_25688d7ee879addb8d4627d4616098ab34b825f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_f5c3ff35f87370e6c1cfd4cd485845af73796478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="374dd13365c4bf1304dbafb8d58fac6d50df8105">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_406c66c12fa30fcb4cd96fad84eab824c0ede55c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_a734a1cabcb4fb1e2ff42f29c4b0bbb9c978c25f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_48b692919e8233ecff94f8727ee49fa7c8d4abf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d88abde5650378c7cc5b8dd5673d0dc72e73bf3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_0f87e25cac6885a9630c99c2227ed64a3b352fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_ed8249e8fd1859c8ef58035ab50e395c06178f3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_75016272ec15c30e3629a53aef69a9033e9139cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_6dee7afbd47320c3a9c087ec728a7fb4e26aac03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_d15ab849ae9500222f2f2d45cac6cafa87a81e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_2bb5a9e8bcf44e11fbc48042fab0094003523588\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_d034e12dae942a3ebf76f853f1f61a6f262069b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_3abf05fed4d035a3570d20473781926c25223ac7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_fce496f97bfd89ed229d772845fa3a925ce39c3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d487b12ae9f012584a0482ffa0b3d4d4fd95e4">
+        <dex dex="E:\Android\ceshi\RecyclerItemTouch\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b1dc51db67ec9632e1c9bff49d3607afb9cb640c\classes.dex" />
+    </item>
+
+</items>
