@@ -1,0 +1,2 @@
+# RecyclerAndItemTouch
+RecyclerView实现今日头条频道选择功能
